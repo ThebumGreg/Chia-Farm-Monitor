@@ -1,0 +1,9 @@
+Connection error. Check if farmer is running at 8559
+Connection error. Check if full node is running at 8555
+Connection error. Check if farmer is running at 8559
+Farming status: Not available
+Plot count: Unknown
+Total size of plots: Unknown
+Estimated network space: Unknown
+Expected time to win: Unknown
+For details on farmed rewards and fees you should run 'chia start wallet' and 'chia wallet show'

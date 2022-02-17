@@ -1,0 +1,9 @@
+plots: 450
+chia dir: Chia Dir
+Slack URL: Slack Web Hook
+schedule update: 5
+schedule check : 120
+Remote Harvester for IP: 1.1.1.1
+Remote Harvester for IP: 1.1.1.2
+Remote Harvester for IP: 1.1.1.3
+Remote Harvester for IP: 1.1.1.4
