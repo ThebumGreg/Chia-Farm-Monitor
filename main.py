@@ -27,7 +27,7 @@ def check_farm():
     farmers_recorded = []
     run_once = 0
 
-    with open('test2.txt', 'r') as z:
+    with open('summary.txt', 'r') as z:
         for line in z:
             line = line.strip()
             if 'Connection error' in line:
